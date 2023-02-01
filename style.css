@@ -1,0 +1,26 @@
+.usersDiv{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: gray;
+}
+.userDiv{
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    margin: 10px;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+.imgTag{
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    margin: auto;
+}
